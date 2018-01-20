@@ -1,0 +1,6 @@
+[Core]
+Name = Kondate
+Module = kondate
+
+[Documentation]
+Description = Decide today's menu!
